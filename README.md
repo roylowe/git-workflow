@@ -29,7 +29,7 @@
     **git commit -m"commit message" origin feature_name**
 5. push changes to feature_name branch
     **git push origin feature_name**
-6. Go to github.com under pull requests
+6. Go to [GitHub](github.com), under pull requests
     a. do a new pull request
     b. set feture_name branch to push to develop branch
     c. click create pull request
